@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/suza-subedi/mj/static/css/main.8ccc84b7.chunk.css",
+    "main.js": "/suza-subedi/mj/static/js/main.ae66dabb.chunk.js",
+    "main.js.map": "/suza-subedi/mj/static/js/main.ae66dabb.chunk.js.map",
+    "runtime-main.js": "/suza-subedi/mj/static/js/runtime-main.89c11758.js",
+    "runtime-main.js.map": "/suza-subedi/mj/static/js/runtime-main.89c11758.js.map",
+    "static/css/2.150d169a.chunk.css": "/suza-subedi/mj/static/css/2.150d169a.chunk.css",
+    "static/js/2.04ef31e1.chunk.js": "/suza-subedi/mj/static/js/2.04ef31e1.chunk.js",
+    "static/js/2.04ef31e1.chunk.js.map": "/suza-subedi/mj/static/js/2.04ef31e1.chunk.js.map",
+    "static/js/3.ff208842.chunk.js": "/suza-subedi/mj/static/js/3.ff208842.chunk.js",
+    "static/js/3.ff208842.chunk.js.map": "/suza-subedi/mj/static/js/3.ff208842.chunk.js.map",
+    "index.html": "/suza-subedi/mj/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/suza-subedi/mj/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8ccc84b7.chunk.css.map": "/suza-subedi/mj/static/css/main.8ccc84b7.chunk.css.map",
+    "static/js/2.04ef31e1.chunk.js.LICENSE.txt": "/suza-subedi/mj/static/js/2.04ef31e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c11758.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.04ef31e1.chunk.js",
+    "static/css/main.8ccc84b7.chunk.css",
+    "static/js/main.ae66dabb.chunk.js"
+  ]
+}
